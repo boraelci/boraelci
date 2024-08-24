@@ -6,6 +6,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/boraelci?label=Follow&style=social)](https://github.com/boraelci)
 
 ## Experience
-I am a Software Development Engineer. I graduated from Columbia University in May 2023 with a Bachelor of Science in Computer Science.
+I am a Software Engineer. I graduated from Columbia University in May 2023 with a Bachelor of Science in Computer Science.
 
 You can find my resume [here](https://boraelci.com/cv.pdf).
