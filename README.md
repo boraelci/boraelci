@@ -8,4 +8,4 @@
 ## Experience
 I am a Software Development Engineer. In May 2023, I graduated from Columbia University with a Bachelor of Science in Computer Science.
 
-You can find my resume [here](https://boraelci.com/cv.pdf)
+You can find my resume [here](https://boraelci.com/cv.pdf).
