@@ -6,6 +6,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/boraelci?label=Follow&style=social)](https://github.com/boraelci)
 
 ## Experience
-I am a Software Development Engineer. I completed my undergrad as a Computer Science student in SEAS at Columbia University.
+I am a Software Development Engineer. In May 2023, I graduated from Columbia University with a Bachelor of Science in Computer Science.
 
 You can find my resume [here](https://boraelci.com/cv.pdf)
